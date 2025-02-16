@@ -39,7 +39,7 @@ backend:
 🚀 Installation & Setup
 
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/xxRAJA/RAJA-PROFILE
 
 # Navigate to the project folder
 cd your-repo
