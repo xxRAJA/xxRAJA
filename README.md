@@ -1,40 +1,41 @@
 # 🚀 Welcome to My GitHub Universe! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Tech+Enthusiast+%7C+Open-Source+Lover;Building+Scalable+and+Efficient+Applications;Always+Learning+and+Innovating" />
+</p>
+
 ## 🏆 About Me
 Hey there! I'm **xxRAJA**, a passionate **Full-Stack Developer** and **Open-Source Contributor** who loves solving real-world problems with **clean, efficient, and scalable** code. I specialize in **building high-performance applications** with modern technologies and best practices. 💻🚀
 
 🔥 **Core Beliefs:**
-- Simplicity and elegance in code 🧑‍💻
-- Continuous learning and growth 📚
-- Collaboration over competition 🤝
-- Automate everything possible ⚡
+- 🌱 Simplicity and elegance in code 🧑‍💻
+- 📚 Continuous learning and growth 
+- 🤝 Collaboration over competition 
+- ⚡ Automate everything possible 
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
+</p>
 
 ### 🖥️ Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
 
 ### 🔧 DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws" />
+</p>
 
 ---
 
@@ -46,17 +47,21 @@ Hey there! I'm **xxRAJA**, a passionate **Full-Stack Developer** and **Open-Sour
 ---
 
 ## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxRAJA&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxRAJA&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xxRAJA&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xxRAJA&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxRAJA&layout=compact&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxRAJA&theme=dark"/>
+</p>
 
 ⚡ _I believe in consistently coding, building, and pushing limits!_
 
 ---
 
 ## 🌍 Let's Connect & Collaborate!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://yourportfolio.com/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
+</p>
 
 🚀 **Let's build something legendary!** 😎
