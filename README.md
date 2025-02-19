@@ -59,9 +59,11 @@ Hey there! I'm **xxRAJA**, a passionate **Full-Stack Developer** and **Open-Sour
 
 ## 🌍 Let's Connect & Collaborate!
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourportfolio.com/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/
+aryan-thakur-8b84b0350
+/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https:"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://raja-profile.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
 
 🚀 **Let's build something legendary!** 😎
